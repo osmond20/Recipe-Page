@@ -23,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/recipe-page-with-responsive-design-XJLnv4ESTC)
-- Live Site URL: [Add live site URL here](https://github.com/osmond20/Recipe-Page)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-with-responsive-design-XJLnv4ESTC)
+- Live Site URL: [Website](https://github.com/osmond20/Recipe-Page)
 
 ## My process
 
