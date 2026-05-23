@@ -43,7 +43,7 @@ main{
 /*headings and paragraph*/
 h2{
     color: var(--Stone-900);
-    font-size: clamp(3rem,2vw, 4rem);
+    font-size: clamp(3rem,2vw, 3.5rem);
     font-family: 'Young Serif';
     font-weight: 400;
 }
@@ -66,7 +66,7 @@ h4{
 }
 
 p{
-    font-size: clamp(1rem, 2vw, 1.25rem);
+    font-size: clamp(1rem, 2vw, 1.15rem);
 }
 
 /*recipe page container*/
@@ -78,7 +78,7 @@ p{
     align-items: center;
     flex-direction: column;
 
-    font-size: clamp(1rem, 2vw, 1.25rem);
+    font-size: clamp(1rem, 2vw, 1.10rem);
 
     @media(width<=40rem){
         width: 100%;
