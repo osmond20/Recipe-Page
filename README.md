@@ -81,5 +81,5 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 ## Author
 
 - Website - [Github](https://github.com/osmond20/Recipe-Page)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@osmond20](https://www.frontendmentor.io/profile/yourusername)
 
