@@ -83,6 +83,7 @@ p{
     @media(width<=40rem){
         width: 100%;
         border-radius: 0px;
+        height: 100%;
     }
 }
 
