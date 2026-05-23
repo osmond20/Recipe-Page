@@ -14,6 +14,9 @@ body{
     --Rose-50: hsl(330, 100%, 98%);
 
     background-color: var(--Stone-100);
+    @media(width<=40rem){
+        background-color: var(--white);
+    }
 
     color: var(--Stone-600);
 
@@ -83,7 +86,6 @@ p{
     @media(width<=40rem){
         width: 100%;
         border-radius: 0px;
-        height: 100%;
     }
 }
 
