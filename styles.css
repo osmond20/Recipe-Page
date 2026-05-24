@@ -1,6 +1,6 @@
 
 body{
-    margin: 0;
+    margin: 0rem;
     min-height: 100vh;
 
     /*Colors*/
@@ -30,10 +30,10 @@ main{
     justify-content: center;
     box-sizing: border-box;
     max-width:100%;
-    padding: clamp(0, 2vw, 3rem);
 
     @media(width>=40rem){
         min-height: 100vh;
+        padding: 3rem;
     }
 }
 
@@ -47,7 +47,7 @@ h1{
 
 h1,h2{
     margin-top:1.6rem;
-    margin-bottom: 0;
+    margin-bottom: 0rem;
 }
 
 h2{
@@ -69,10 +69,11 @@ p{
 .recipe_page{
     width: 100%;
     background-color: var(--white);
-    border-radius: 0px;
+    border-radius: 0rem;
     display: flex;
     align-items: center;
     flex-direction: column;
+
 
     font-size: clamp(1rem, 2vw, 1.10rem);
 
@@ -81,6 +82,7 @@ p{
         width: 47rem;
          /*30px*/
         border-radius: 1.9rem;
+        padding-top: 2rem;
     }
 }
 
@@ -88,13 +90,11 @@ p{
 .page_image{
     width: 100%;
     height: 15rem;
-    border-radius: 0px;
-    margin:0;
+    border-radius: 0rem;
 
     @media(width>=40rem){
         height: 19rem;
         border-radius: 15px;
-        margin-top: 2rem;
         width: 90%;
     }
 }
